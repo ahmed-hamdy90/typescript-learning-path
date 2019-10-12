@@ -1,0 +1,16 @@
+{
+  "name": "getting-started-with-typescript-tutorials",
+  "version": "1.0.0",
+  "description": "Fullow up Tutorial videos of Pluralsight Getting Started With Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "author": "ahmed hamdy",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
